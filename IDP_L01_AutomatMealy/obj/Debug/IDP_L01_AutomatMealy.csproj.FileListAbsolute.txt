@@ -1,0 +1,7 @@
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\instrumente pentru dezvoltarea programelor\laborator\IDP_L01_AutomatMealy\bin\Debug\IDP_L01_AutomatMealy.exe.config
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\instrumente pentru dezvoltarea programelor\laborator\IDP_L01_AutomatMealy\bin\Debug\IDP_L01_AutomatMealy.exe
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\instrumente pentru dezvoltarea programelor\laborator\IDP_L01_AutomatMealy\bin\Debug\IDP_L01_AutomatMealy.pdb
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\instrumente pentru dezvoltarea programelor\laborator\IDP_L01_AutomatMealy\obj\Debug\IDP_L01_AutomatMealy.csprojAssemblyReference.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\instrumente pentru dezvoltarea programelor\laborator\IDP_L01_AutomatMealy\obj\Debug\IDP_L01_AutomatMealy.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\instrumente pentru dezvoltarea programelor\laborator\IDP_L01_AutomatMealy\obj\Debug\IDP_L01_AutomatMealy.exe
+C:\Users\Adelina\my stuff\facultate\an4\semestrul1\instrumente pentru dezvoltarea programelor\laborator\IDP_L01_AutomatMealy\obj\Debug\IDP_L01_AutomatMealy.pdb

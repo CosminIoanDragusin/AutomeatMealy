@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\IDP_L01_AutomatMealy\bin\Debug\L01_AutomatMealy.exe.config
+C:\Users\user\Desktop\IDP_L01_AutomatMealy\bin\Debug\L01_AutomatMealy.exe
+C:\Users\user\Desktop\IDP_L01_AutomatMealy\bin\Debug\L01_AutomatMealy.pdb
+C:\Users\user\Desktop\IDP_L01_AutomatMealy\obj\Debug\L01_AutomatMealy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IDP_L01_AutomatMealy\obj\Debug\L01_AutomatMealy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDP_L01_AutomatMealy\obj\Debug\L01_AutomatMealy.exe
+C:\Users\user\Desktop\IDP_L01_AutomatMealy\obj\Debug\L01_AutomatMealy.pdb
